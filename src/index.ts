@@ -1,3 +1,3 @@
-import { ASSING_COURSES_INFO } from "./scripts/assignCoursesInfo";
+import { MASSIVE_COURSE_MP_COURSES_CONFIGURATION } from "./scripts/massiveCourseMPConfiguration";
 
-ASSING_COURSES_INFO("mazda");
+MASSIVE_COURSE_MP_COURSES_CONFIGURATION("universidadultra");
